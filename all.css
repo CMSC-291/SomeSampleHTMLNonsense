@@ -1,0 +1,14 @@
+.catCaption {
+    border: solid fuchsia 5px;
+}
+
+td.catCaption {
+    background-color: blanchedalmond;
+}
+tr {
+    margin:0px;
+}
+
+#catTable {
+    border: solid rebeccapurple 30px;
+}
