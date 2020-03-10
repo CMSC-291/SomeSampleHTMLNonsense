@@ -1,25 +1,16 @@
-.catCaption {
-    border: solid fuchsia 5px;
-}
 
 * {
     font-family: "Toppan Bunkyu Gothic";
 }
 
-td.catCaption {
-    background-color: blanchedalmond;
-    font-family: "American Typewriter";
-}
-tr {
-    margin:0px;
-}
 
 img.cat {
     height: 200px;
+
 }
 
 img.fish {
-    width: 100%;
+    width: 100px;
 }
 
 table {
